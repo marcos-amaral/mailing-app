@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: mmouraam
+Created-By: Apache Maven 3.6.3
+Build-Jdk: 1.8.0_251
+Main-Class: com.oi.mailingfxapp.core.App
+Class-Path: ojdbc8-19.3.0.0.jar
